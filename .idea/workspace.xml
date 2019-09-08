@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a339f9b4-8880-41eb-92c1-0b7a33abf2b4" name="Default Changelist" comment="" />
+    <list default="true" id="a339f9b4-8880-41eb-92c1-0b7a33abf2b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DelElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DiemThiSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GameMiniSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GopMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumRowArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +39,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QWEjA4OMXDaNR65LrwiSldTx4d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -43,37 +66,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMaxArray">
-    <configuration name="ChangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChangeArray" />
+  <component name="RunManager" selected="Application.SumRowArray">
+    <configuration name="CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountString" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMax" />
+    <configuration name="DelElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DelElement" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMaxArray" />
+    <configuration name="FindMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMinArray" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMin" />
+    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumArray" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotationArray" />
+    <configuration name="SumRowArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumRowArray" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMaxArray" />
-        <item itemvalue="Application.ChangeArray" />
-        <item itemvalue="Application.FindMin" />
-        <item itemvalue="Application.RotationArray" />
-        <item itemvalue="Application.FindMax" />
+        <item itemvalue="Application.SumRowArray" />
+        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.CountString" />
+        <item itemvalue="Application.DelElement" />
+        <item itemvalue="Application.FindMinArray" />
       </list>
     </recent_temporary>
   </component>
@@ -99,11 +122,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567878084403</updated>
-      <workItem from="1567878087037" duration="5945000" />
+      <workItem from="1567878087037" duration="6562000" />
+      <workItem from="1567915788320" duration="7504000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
