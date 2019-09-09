@@ -6,7 +6,7 @@ public class FindStudent {
         String[] students = {"Christian", "Michael", "Camila", "Sienna", "Tanya", "Connor", "Zachariah", "Mallory", "Zoe", "Emily"};
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter student name: ");
-        String student = scanner.next();
+        String student = scanner.nextLine();
         boolean exit=true;
         for (int i = 0; i < students.length; i++) {
             if (students[i].equals(student)) {

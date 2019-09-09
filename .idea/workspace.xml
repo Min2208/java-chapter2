@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a339f9b4-8880-41eb-92c1-0b7a33abf2b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DelElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DiemThiSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GameMiniSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GopMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumRowArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NgoaiLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NgoaiLeTamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestQuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestStopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,8 +15,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FindStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FindStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FindStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindStudent.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumRowArray">
+  <component name="RunManager" selected="Application.TestStopWatch">
     <configuration name="CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountString" />
       <module name="Java-chapter2.main" />
@@ -74,29 +76,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DelElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DelElement" />
+    <configuration name="FindStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindStudent" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMinArray" />
+    <configuration name="TestQuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestQuadraticEquation" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumArray" />
+    <configuration name="TestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestRectangle" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumRowArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumRowArray" />
+    <configuration name="TestStopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStopWatch" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumRowArray" />
-        <item itemvalue="Application.SumArray" />
+        <item itemvalue="Application.TestStopWatch" />
+        <item itemvalue="Application.TestQuadraticEquation" />
+        <item itemvalue="Application.TestRectangle" />
         <item itemvalue="Application.CountString" />
-        <item itemvalue="Application.DelElement" />
-        <item itemvalue="Application.FindMinArray" />
+        <item itemvalue="Application.FindStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +125,11 @@
       <option name="presentableId" value="Default" />
       <updated>1567878084403</updated>
       <workItem from="1567878087037" duration="6562000" />
-      <workItem from="1567915788320" duration="7504000" />
+      <workItem from="1567915788320" duration="8473000" />
+      <workItem from="1567952861228" duration="4368000" />
+      <workItem from="1567996930922" duration="926000" />
+      <workItem from="1568001664052" duration="4274000" />
+      <workItem from="1568039739680" duration="8412000" />
     </task>
     <servers />
   </component>
