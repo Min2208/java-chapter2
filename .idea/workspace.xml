@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a339f9b4-8880-41eb-92c1-0b7a33abf2b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NgoaiLe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NgoaiLeTamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestQuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestStopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestFan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -16,10 +11,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FindStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FindStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FindStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FindStudent.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStopWatch">
+  <component name="RunManager" selected="Application.TestFan">
     <configuration name="CountString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountString" />
       <module name="Java-chapter2.main" />
@@ -76,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindStudent" />
+    <configuration name="TestFan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestFan" />
       <module name="Java-chapter2.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFan" />
         <item itemvalue="Application.TestStopWatch" />
         <item itemvalue="Application.TestQuadraticEquation" />
         <item itemvalue="Application.TestRectangle" />
         <item itemvalue="Application.CountString" />
-        <item itemvalue="Application.FindStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +120,8 @@
       <workItem from="1567952861228" duration="4368000" />
       <workItem from="1567996930922" duration="926000" />
       <workItem from="1568001664052" duration="4274000" />
-      <workItem from="1568039739680" duration="8412000" />
+      <workItem from="1568039739680" duration="8670000" />
+      <workItem from="1568082941834" duration="2978000" />
     </task>
     <servers />
   </component>
