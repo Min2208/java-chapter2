@@ -15,8 +15,9 @@ public class TestFan {
         fan2.setColor("blue");
         fan2.setOn(false);
 
-        fan1.getInfo();
-        fan2.getInfo();
+        System.out.println(fan1.toString());
+        System.out.println(fan2.toString());
+
 
     }
 }
@@ -63,15 +64,17 @@ class Fan {
         this.radius = radius;
     }
 
-    public void getInfo() {
-
+    public String toString() {
+        String result=null;
         if (this.on){
-            System.out.format("{speed: %d, color: %s, radius: %s}",this.speed,this.color,"fan is on");
+
+            result="speed: " +this.speed +", color: "+ this.color +", radius: fan is on" ;
 
         }else {
-            System.out.format("{color: %s,radius: %s}",this.color,"fan is off");
+
+            result="color: "+ this.color +", radius: fan is off" ;
         }
 
-
+        return result;
     }
 }
